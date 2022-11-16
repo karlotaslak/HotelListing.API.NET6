@@ -58,7 +58,9 @@ namespace HotelListing.API.Data
                     Address = "Nassua",
                     CountryId = 2,
                     Rating = 4
+         
                 });
+
         }
     }
 }
